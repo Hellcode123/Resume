@@ -1,2 +1,2 @@
-# Resume
-#Go https://hellcode123.github.io/Resume/
+# My Resume
+#Go to https://hellcode123.github.io/Resume/
